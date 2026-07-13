@@ -1,25 +1,18 @@
-# OOP Ticketing System ----- What does it even mean?
+# 𝙾𝙾𝙿 𝚃𝚒𝚌𝚔𝚎𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖 ----- 𝚆𝚑𝚊𝚝 𝚍𝚘𝚎𝚜 𝚒𝚝 𝚎𝚟𝚎𝚗 𝚖𝚎𝚊𝚗? 
 
-A fully-featured, object-oriented ticketing system built in Python. Designed as a portfolio piece to demonstrate clean architecture, design patterns, and professional coding practices.
+𝙰 𝚏𝚞𝚕𝚕𝚢-𝚏𝚎𝚊𝚝𝚞𝚛𝚎𝚍, 𝚘𝚋𝚓𝚎𝚌𝚝-𝚘𝚛𝚒𝚎𝚗𝚝𝚎𝚍 𝚝𝚒𝚌𝚔𝚎𝚝𝚒𝚗𝚐 𝚜𝚢𝚜𝚝𝚎𝚖 𝚋𝚞𝚒𝚕𝚝 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗. 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚍 𝚊𝚜 𝚊 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚙𝚒𝚎𝚌𝚎 𝚝𝚘 𝚍𝚎𝚖𝚘𝚗𝚜𝚝𝚛𝚊𝚝𝚎 𝚌𝚕𝚎𝚊𝚗 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎, 𝚍𝚎𝚜𝚒𝚐𝚗 𝚙𝚊𝚝𝚝𝚎𝚛𝚗𝚜, 𝚊𝚗𝚍 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚌𝚘𝚍𝚒𝚗𝚐 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜.  ## 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜 ----- 
 
-## Features -----
+- **𝙵𝚞𝚕𝚕 𝚝𝚒𝚌𝚔𝚎𝚝 𝚕𝚒𝚏𝚎𝚌𝚢𝚌𝚕𝚎**: 𝙲𝚛𝚎𝚊𝚝𝚎 → 𝙰𝚜𝚜𝚒𝚐𝚗 → 𝙲𝚘𝚖𝚖𝚎𝚗𝚝 → 𝚁𝚎𝚜𝚘𝚕𝚟𝚎 → 𝙲𝚕𝚘𝚜𝚎 → 𝚁𝚎𝚘𝚙𝚎𝚗 𝚊𝚐𝚊𝚒𝚗 ,𝚎𝚝𝚌.
+- **𝚁𝚘𝚕𝚎-𝚋𝚊𝚜𝚎𝚍 𝚊𝚌𝚌𝚎𝚜𝚜 𝚌𝚘𝚗𝚝𝚛𝚘𝚕**: 𝙰𝚍𝚖𝚒𝚗, 𝙰𝚐𝚎𝚗𝚝, 𝚁𝚎𝚙𝚘𝚛𝚝𝚎𝚛, 𝚅𝚒𝚎𝚠𝚎𝚛 𝚛𝚘𝚕𝚎𝚜 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚐𝚛𝚊𝚗𝚞𝚕𝚊𝚛 𝚙𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗𝚜.
+- **𝙿𝚛𝚒𝚘𝚛𝚒𝚝𝚢 & 𝚌𝚊𝚝𝚎𝚐𝚘𝚛𝚒𝚣𝚊𝚝𝚒𝚘𝚗**: 𝙻𝙾𝚆/𝙼𝙴𝙳𝙸𝚄𝙼/𝙷𝙸𝙶𝙷/𝙲𝚁𝙸𝚃𝙸𝙲𝙰𝙻 + 𝙱𝚄𝙶/𝙵𝙴𝙰𝚃𝚄𝚁𝙴/𝚂𝚄𝙿𝙿𝙾𝚁𝚃/𝙸𝙽𝙲𝙸𝙳𝙴𝙽𝚃/𝙶𝙴𝙽𝙴𝚁𝙰𝙻 ~~~~
+- **𝚂𝚎𝚊𝚛𝚌𝚑 & 𝚏𝚒𝚕𝚝𝚎𝚛𝚒𝚗𝚐**: 𝚂𝚎𝚊𝚛𝚌𝚑 𝚋𝚢 𝚝𝚎𝚡𝚝, 𝚏𝚒𝚕𝚝𝚎𝚛 𝚋𝚢 𝚝𝚑𝚎 𝚜𝚝𝚊𝚝𝚞𝚜, 𝚊𝚜𝚜𝚒𝚐𝚗𝚎𝚎, 𝚙𝚛𝚒𝚘𝚛𝚒𝚝𝚢, 𝚝𝚊𝚐𝚜.
+- **𝙰𝚞𝚍𝚒𝚝 𝚕𝚘𝚐𝚐𝚒𝚗𝚐**: 𝙴𝚟𝚎𝚛𝚢 𝚊𝚌𝚝𝚒𝚘𝚗 𝚒𝚜 𝙰𝙻𝚆𝙰𝚈𝚂 𝚝𝚛𝚊𝚌𝚔𝚎𝚍 𝚠𝚒𝚝𝚑 𝚝𝚒𝚖𝚎𝚜𝚝𝚊𝚖𝚙𝚜.
+- **𝙽𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚜𝚢𝚜𝚝𝚎𝚖**: 𝙾𝚋𝚜𝚎𝚛𝚟𝚎𝚛 𝚙𝚊𝚝𝚝𝚎𝚛𝚗 𝚏𝚘𝚛 𝚎𝚖𝚊𝚒𝚕/𝚂𝚕𝚊𝚌𝚔-𝚜𝚝𝚢𝚕𝚎 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚟𝚒𝚋𝚎 / 𝚗𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗 - 𝚒𝚝'𝚜 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝𝚒𝚊𝚝𝚎𝚍. - **𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 𝚍𝚊𝚜𝚑𝚋𝚘𝚊𝚛𝚍**: 𝚂𝚢𝚜𝚝𝚎𝚖-𝚠𝚒𝚍𝚎 𝚖𝚎𝚝𝚛𝚒𝚌𝚜 𝚎𝚟𝚎𝚛𝚢𝚝𝚒𝚖𝚎 - 𝚒𝚝 𝚑𝚊𝚜 𝚝𝚘 𝚋𝚎 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚘𝚝𝚑𝚎𝚛𝚠𝚒𝚜𝚎 𝚠𝚑𝚊𝚝 𝚒𝚜 𝚝𝚑𝚎 𝚙𝚘𝚒𝚗𝚝 𝚐𝚎𝚗𝚎𝚛𝚊𝚕𝚒𝚜𝚒𝚗𝚐.  ## 𝙰𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 & 𝙳𝚎𝚜𝚒𝚐𝚗 𝙿𝚊𝚝𝚝𝚎𝚛𝚗𝚜  -----
+  
+-   | **𝚁𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜** | `𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜/` | 𝙳𝚎𝚌𝚘𝚞𝚙𝚕𝚎𝚜 𝚊𝚗𝚢 𝚝𝚢𝚙𝚎 𝚘𝚏 𝚍𝚊𝚝𝚊 𝚊𝚌𝚌𝚎𝚜𝚜 𝚏𝚛𝚘𝚖 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚕𝚘𝚐𝚒𝚌. 𝚂𝚠𝚊𝚙 𝚂𝚀𝙻𝚒𝚝𝚎/𝙿𝚘𝚜𝚝𝚐𝚛𝚎𝚂𝚀𝙻 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚝𝚘𝚞𝚌𝚑𝚒𝚗𝚐 𝚘𝚝𝚑𝚎𝚛 𝚌𝚘𝚍𝚎, 𝚎𝚝𝚌.
+-   | **𝙵𝚊𝚌𝚊𝚍𝚎𝚜** | `𝚃𝚒𝚌𝚔𝚎𝚝𝚂𝚎𝚛𝚟𝚒𝚌𝚎` | 𝚂𝚒𝚗𝚐𝚕𝚎 𝚎𝚗𝚝𝚛𝚢 𝚙𝚘𝚒𝚗𝚝 𝚏𝚘𝚛 𝚊𝚕𝚕 𝚘𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜. 𝙲𝙻𝙸/𝙰𝙿𝙸 𝚘𝚗𝚕𝚢 𝚝𝚊𝚕𝚔 𝚝𝚘 𝚝𝚑𝚎 𝚜𝚎𝚛𝚟𝚒𝚌𝚎 | | **𝙾𝚋𝚜𝚎𝚛𝚟𝚎𝚛𝚜** | `𝙽𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚂𝚎𝚛𝚟𝚒𝚌𝚎` | 𝙽𝚘𝚝𝚒𝚏𝚒𝚎𝚛𝚜 𝚜𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝚝𝚘 𝚝𝚒𝚌𝚔𝚎𝚝 𝚎𝚟𝚎𝚗𝚝𝚜. 𝙴𝚊𝚜𝚢 𝚝𝚘 𝚊𝚍𝚍 𝚗𝚎𝚠 𝚗𝚘𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕𝚜
+-   | **𝚂𝚝𝚛𝚊𝚝𝚎𝚐𝚒𝚜𝚝𝚜** | `𝚄𝚜𝚎𝚛.𝚛𝚘𝚕𝚎` + `𝙿𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗` | 𝙳𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚛𝚘𝚕𝚎𝚜 𝚑𝚊𝚟𝚎 𝚍𝚒𝚏𝚏𝚎𝚛𝚎𝚗𝚝 𝚙𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗 𝚜𝚝𝚛𝚊𝚝𝚎𝚐𝚒𝚎𝚜. 𝙽𝚘 𝚒𝚏-𝚎𝚕𝚜𝚎 𝚌𝚑𝚊𝚒𝚗𝚜
+-   | **𝚂𝚝𝚊𝚝𝚎𝚜** | `𝚃𝚒𝚌𝚔𝚎𝚝𝚂𝚝𝚊𝚝𝚞𝚜` | 𝙰𝙽𝚈 𝚃𝚒𝚌𝚔𝚎𝚝 𝚋𝚎𝚑𝚊𝚟𝚒𝚘𝚞𝚛 𝚌𝚑𝚊𝚗𝚐𝚎𝚜 𝚋𝚊𝚜𝚎𝚍 𝚘𝚗 𝚒𝚝𝚜 𝚜𝚝𝚊𝚝𝚎 (𝚌𝚊𝚗'𝚝 𝚊𝚜𝚜𝚒𝚐𝚗 𝚌𝚕𝚘𝚜𝚎𝚍 𝚝𝚒𝚌𝚔𝚎𝚝𝚜) | -   | **𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜** | `𝚃𝚒𝚌𝚔𝚎𝚝𝚂𝚎𝚛𝚟𝚒𝚌𝚎` 𝚖𝚎𝚝𝚑𝚘𝚍𝚜 | 𝙴𝚊𝚌𝚑 𝚘𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗 𝚒𝚜 𝚎𝚗𝚝𝚒𝚛𝚎𝚕𝚢 𝚜𝚎𝚕𝚏-𝚌𝚘𝚗𝚝𝚊𝚒𝚗𝚍, 𝚊𝚞𝚍𝚒𝚝𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚌𝚘𝚞𝚕𝚍 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚞𝚗𝚍𝚘
+-   | **𝙱𝚞𝚒𝚕𝚍𝚎𝚛𝚜** | `𝚃𝚒𝚌𝚔𝚎𝚝` 𝚍𝚊𝚝𝚊𝚌𝚕𝚊𝚜𝚜 | 𝙵𝚕𝚎𝚡𝚒𝚋𝚕𝚎 𝚘𝚋𝚓𝚎𝚌𝚝 𝚌𝚛𝚎𝚊𝚝𝚒𝚘𝚗 𝚠𝚒𝚝𝚑 𝚜𝚎𝚗𝚜𝚒𝚋𝚕𝚎 𝚍𝚎𝚏𝚊𝚞𝚕𝚝𝚜 𝚘𝚏𝚌 
 
-- **Full ticket lifecycle**: Create → Assign → Comment → Resolve → Close → Reopen again ,etc.
-- **Role-based access control**: Admin, Agent, Reporter, Viewer roles with the granular permissions.
-- **Priority & categorization**: LOW/MEDIUM/HIGH/CRITICAL + BUG/FEATURE/SUPPORT/INCIDENT/GENERAL ~~~~
-- **Search & filtering**: Search by text, filter by the status, assignee, priority, tags.
-- **Audit logging**: Every action is ALWAYS tracked with timestamps.
-- **Notification system**: Observer pattern for email/Slack-style kind of vibe / notification - it's differentiated.
-- **Statistics dashboard**: System-wide metrics everytime - it has to be scalable otherwise what is the point generalising.
-
-## Architecture & Design Patterns  -----
-
-| **Repositories** | `repositories/` | Decouples any type of data access from business logic. Swap SQLite/PostgreSQL without touching other code, etc. |
-| **Facades** | `TicketService` | Single entry point for all operations. CLI/API only talk to the service |
-| **Observers** | `NotificationService` | Notifiers subscribe to ticket events. Easy to add new notification channels |
-| **Strategists** | `User.role` + `Permission` | Different roles have different permission strategies. No if-else chains |
-| **States** | `TicketStatus` | ANY Ticket behaviour changes based on its state (can't assign closed tickets) |
-| **Commands** | `TicketService` methods | Each operation is entirely self-containd, auditable, and could support undo |
-| **Builders** | `Ticket` dataclass | Flexible object creation with sensible defaults ofc |
-
-**End of Documentation** - For now ~
+|  **𝙴𝚗𝚍 𝚘𝚏 𝙳𝚘𝚌𝚞𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗** - 𝙵𝚘𝚛 𝚗𝚘𝚠 anyway~
