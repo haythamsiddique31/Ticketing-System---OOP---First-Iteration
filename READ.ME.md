@@ -5,12 +5,12 @@ A fully-featured, object-oriented ticketing system built in Python. Designed as 
 ## Features -----
 
 - **Full ticket lifecycle**: Create → Assign → Comment → Resolve → Close → Reopen again ,etc.
-- **Role-based access control**: Admin, Agent, Reporter, Viewer roles with the granular permissions
-- **Priority & categorization**: LOW/MEDIUM/HIGH/CRITICAL + BUG/FEATURE/SUPPORT/INCIDENT/GENERAL
-- **Search & filtering**: Search by text, filter by the status, assignee, priority, tags
-- **Audit logging**: Every action is ALWAYS tracked with timestamps
-- **Notification system**: Observer pattern for email/Slack-style notifications
-- **Statistics dashboard**: System-wide metrics everytime - it has to be scalable otherwise what is the point generalising
+- **Role-based access control**: Admin, Agent, Reporter, Viewer roles with the granular permissions.
+- **Priority & categorization**: LOW/MEDIUM/HIGH/CRITICAL + BUG/FEATURE/SUPPORT/INCIDENT/GENERAL ~~~~
+- **Search & filtering**: Search by text, filter by the status, assignee, priority, tags.
+- **Audit logging**: Every action is ALWAYS tracked with timestamps.
+- **Notification system**: Observer pattern for email/Slack-style kind of vibe / notification - it's differentiated.
+- **Statistics dashboard**: System-wide metrics everytime - it has to be scalable otherwise what is the point generalising.
 
 ## Architecture & Design Patterns  -----
 
